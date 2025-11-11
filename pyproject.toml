@@ -1,0 +1,5 @@
+[project]
+name = "libwatch"
+dependencies = [
+    "msgpack == 1.1.1",
+]
