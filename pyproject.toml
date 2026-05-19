@@ -2,5 +2,5 @@
 name = "libwatch"
 dependencies = [
     "msgpack == 1.1.2",
-    "rns == 1.1.4",
+    "rns == 1.2.9",
 ]
