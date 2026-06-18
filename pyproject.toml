@@ -1,6 +1,6 @@
 [project]
 name = "libwatch"
 dependencies = [
-    "msgpack == 1.1.2",
+    "msgpack == 1.2.1",
     "rns == 1.1.4",
 ]
